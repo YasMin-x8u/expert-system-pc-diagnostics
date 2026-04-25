@@ -15,3 +15,6 @@ python diagnostic.py
 
 ## Tech
 Python 3 — no external libraries
+
+## Author
+Name: Yassmine Benhassaine
